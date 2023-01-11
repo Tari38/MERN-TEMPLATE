@@ -1,0 +1,15 @@
+.home-section {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.home-title {
+    text-align: center;
+}
+
+.home-section > p {
+    text-align: center;
+    margin: 10px 0;
+}
